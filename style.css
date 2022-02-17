@@ -78,3 +78,9 @@ a:hover{
 	color: #ADD8E6;
 	text-align: center;
 }
+.autor{
+	color: #ADD8E6;
+}
+.autor p{
+	font-size: 1.4rem;
+}
